@@ -9,6 +9,16 @@
 - PDF toolkit, OCR, background remover, statement converters, shop till, front desk, and more
 - Optional offline packs fund the free tools
 
+## Bundles (one purchase, every pack in the set)
+
+- [Hospitality Suite Bundle](https://payhip.com/b/mhBDM) - hotel, rental, appointment and membership apps, $99 one-time
+- [Retail and Shop Bundle](https://payhip.com/b/c7yW8) - shop register, barcode labels, repair tracker, invoices, Square reports, $99 one-time
+- [Small Business Office Bundle](https://payhip.com/b/Ef7Mr) - invoices, bank CSV tools, QuickBooks journals, scanner, resume PDF, $89 one-time
+- [Creator and Freelancer Bundle](https://payhip.com/b/GnObv) - screen, voice and audio recorders, GIF, image, caption and resume tools, $79 one-time
+- [Online Seller Bundle](https://payhip.com/b/SrX1w) - product CSV checkers and payout reconcilers for Shopify, Etsy, eBay and more, $129 one-time
+- [Shop and Hotel Back Office Bundle](https://payhip.com/b/JB3Xt) - shop register, hotel front desk and staff time clock, $79 one-time
+- [Complete Suite Bundle](https://payhip.com/b/BTat2) - all 69 offline packs, $399 one-time
+
 ## The tools
 
 - [Adyen Settlement Summary](https://statement-converter-c41.pages.dev/adyen-settlement-summary/)
